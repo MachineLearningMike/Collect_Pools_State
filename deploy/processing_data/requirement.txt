@@ -1,0 +1,12 @@
+
+# Function dependencies, for example:
+# package>=version
+pandas
+datetime
+pandas_gbq
+google-auth
+google-auth==1.22.1
+google-auth-httplib2==0.0.4
+google-auth-oauthlib==0.4.1
+google-cloud==0.34.0
+google-cloud-secret-manager==2.0.0
